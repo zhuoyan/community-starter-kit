@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-something changes
+something has change.
+
