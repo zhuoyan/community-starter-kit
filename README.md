@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+just like facebook.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+share your life.
 
 ## Getting started
 
